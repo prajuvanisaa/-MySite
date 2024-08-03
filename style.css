@@ -21,7 +21,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../images/Wallpaper Desktop HD.jpg');
+    background-image: url('Wallpaper Desktop HD.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -104,7 +104,7 @@ body::after {
 
 
 .navback{
-    background: rgba(2, 2, 2, 0.7) url('../images/Wallpaper Desktop HD.jpg') ;
+    background: rgba(2, 2, 2, 0.7) url('Wallpaper Desktop HD.jpg') ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -286,7 +286,7 @@ body::after {
 }
 
 .footer-class{
-    background: rgba(2, 2, 2, 0.7) url('../images/1055056.png') ;
+    background: rgba(2, 2, 2, 0.7) url('1055056.png') ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
